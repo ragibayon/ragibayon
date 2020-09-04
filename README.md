@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-I am a Electronics and Telecommunication Engineer from RUET.
-
+- :neckbeard: I am a Electronics and Telecommunication Engineer from RUET.
 - 🔭 I am currently working on Traffic classification for Information-centric networking.
 - 🌱 I’m currently learning unsupervised Deep Learning architectures.
 - 👯 I’m looking to collaborate on big data problems using Deep Learning.
 - 💬 Ask me about Machine Learning and Embedded sytems.
-  
+
+## Publications
+
+- [ ] Liver Disorder likelihood prediction using Ensemble Based Machine Learning Classifier, *2nd International Conference on Advanced Information and Communication Technolgoy, 2020, Dhaka, Bangladesh*
+- [ ] A Comparative Machine Learning Approach For Predicting Cardio Vascular Disease, *2nd International Conference on Advanced Information and Communication Technolgoy, 2020, Dhaka, Bangladesh*
+- [x] Brain Tumor Segmentation and Classification using Spatial Fuzzy C mean and Quadratic Support Vector Machine,*3rd International Conference on Electrical, Computer, and Telecommunication Engineering, 2019, Rajshahi, Bangladesh.*
+- [x] A New Approach of Moving Object Detection Using Background Subtraction Method *3rd International Conference on Electrical, Computer, and Telecommunication Engineering, 2019, Rajshahi, Bangladesh.*
