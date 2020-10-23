@@ -8,7 +8,5 @@
 
 ## Publications
 
-- [ ] Liver Disorder likelihood prediction using Ensemble Based Machine Learning Classifier, *2nd International Conference on Advanced Information and Communication Technolgoy, 2020, Dhaka, Bangladesh*
-- [ ] A Comparative Machine Learning Approach For Predicting Cardio Vascular Disease, *2nd International Conference on Advanced Information and Communication Technolgoy, 2020, Dhaka, Bangladesh*
 - [x] Brain Tumor Segmentation and Classification using Spatial Fuzzy C mean and Quadratic Support Vector Machine,*3rd International Conference on Electrical, Computer, and Telecommunication Engineering, 2019, Rajshahi, Bangladesh.*
 - [x] A New Approach of Moving Object Detection Using Background Subtraction Method *3rd International Conference on Electrical, Computer, and Telecommunication Engineering, 2019, Rajshahi, Bangladesh.*
