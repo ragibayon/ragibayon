@@ -14,7 +14,7 @@ My research interest is in Healthcare Informatics and machine learning. Some of 
 
 ## Projects
 
-As github only allows six repositories to pin, some of the cool projects I loved to work with is mentioned below.
+As GitHub only allows six repositories to pin, some of the cool projects I loved to work with are mentioned below.
 
 ### Backend Projects
 
