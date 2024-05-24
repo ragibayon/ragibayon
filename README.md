@@ -1,14 +1,10 @@
 # Hi there 👋
 
----
-
 My name is Ragib Shahariar Ayon, and I am a software engineer with more than three years of experience in backend and blockchain. I completed my B.Sc. in Electronics and Telecommunication Engineering from Rajshahi University of Engineering and Technology, Bangladesh.
 
 I would love to talk and learn new things about the backend architectures and system designs.
 
 ## Publications
-
----
 
 My research interest is in Healthcare Informatics and machine learning. Some of my research articles are mentioned below.
 
@@ -18,7 +14,7 @@ My research interest is in Healthcare Informatics and machine learning. Some of 
 
 ## Projects
 
-As GitHub only allows six repositories to pin, some of the cool projects I loved to work with are mentioned below.
+As github only allows six repositories to pin, some of the cool projects I loved to work with is mentioned below.
 
 ### Backend Projects
 
@@ -42,5 +38,3 @@ As GitHub only allows six repositories to pin, some of the cool projects I loved
 - [pagination-react](https://github.com/ragibayon/pagination-react)
 - [simon-game](https://github.com/ragibayon/simon-game)
 - [Drum-Kit](https://github.com/ragibayon/Drum-Kit)
-
----
